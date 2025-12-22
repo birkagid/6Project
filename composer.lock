@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "0111bad596a2b031536330c855a43c0b",
+    "content-hash": "403785ed5ceefa779ae7c379f83c5a7f",
     "packages": [
         {
             "name": "birka/library",
