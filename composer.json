@@ -5,10 +5,6 @@
     {
       "type": "vcs",
       "url": "https://github.com/birkagid/LIBRARY.git"
-    },
-    {
-      "type": "vcs",
-      "url": "https://github.com/birkagid/Derived.git"
     }
    ],
     "require": {
