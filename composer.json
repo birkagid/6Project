@@ -1,0 +1,17 @@
+{
+    "name": "birka/project",
+    "type": "project",
+    "repositories": [
+    {
+      "type": "vcs",
+      "url": "https://github.com/birkagid/LIBRARY.git"
+    }
+  ],
+  "require": {
+    "birka/library": "dev-main"
+  },
+    "require-dev": {
+        "squizlabs/php_codesniffer": "3.*",
+        "phpstan/phpstan": "^2.1"
+    }
+}
