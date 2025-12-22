@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "843be529d9c2b4b4b1f66a51294ba7fa",
+    "content-hash": "0111bad596a2b031536330c855a43c0b",
     "packages": [
         {
             "name": "birka/library",
@@ -12,12 +12,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/birkagid/LIBRARY.git",
-                "reference": "8d63fd25d146056e387bb6c6a174d8def60f7b56"
+                "reference": "2d6b2fff8846c9b63e43e56a8b31c3e0f083eaa0"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/birkagid/LIBRARY/zipball/8d63fd25d146056e387bb6c6a174d8def60f7b56",
-                "reference": "8d63fd25d146056e387bb6c6a174d8def60f7b56",
+                "url": "https://api.github.com/repos/birkagid/LIBRARY/zipball/2d6b2fff8846c9b63e43e56a8b31c3e0f083eaa0",
+                "reference": "2d6b2fff8846c9b63e43e56a8b31c3e0f083eaa0",
                 "shasum": ""
             },
             "require-dev": {
@@ -35,7 +35,7 @@
                 "source": "https://github.com/birkagid/LIBRARY/tree/main",
                 "issues": "https://github.com/birkagid/LIBRARY/issues"
             },
-            "time": "2025-12-22T20:42:59+00:00"
+            "time": "2025-12-22T22:02:32+00:00"
         }
     ],
     "packages-dev": [

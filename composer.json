@@ -5,11 +5,15 @@
     {
       "type": "vcs",
       "url": "https://github.com/birkagid/LIBRARY.git"
+    },
+    {
+      "type": "vcs",
+      "url": "https://github.com/birkagid/LIBRARY.git"
     }
-  ],
-  "require": {
+   ],
+    "require": {
     "birka/library": "dev-main"
-  },
+    },
     "require-dev": {
         "squizlabs/php_codesniffer": "3.*",
         "phpstan/phpstan": "^2.1"
