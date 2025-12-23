@@ -1,5 +1,7 @@
 <?php
 
+require_once "vendor/autoload.php";
+
 use Birka\Sixth\Library\PizzaStoreDodo;
 
 $store = new PizzaStoreDodo();

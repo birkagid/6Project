@@ -2,6 +2,8 @@
 
 namespace Birka\Sixth\Library;
 
+use Birka\Sixth\Library\Pizza;
+
 class PizzaCheese extends Pizza
 {
     public function __construct()

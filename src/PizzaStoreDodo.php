@@ -2,6 +2,8 @@
 
 namespace Birka\Sixth\Library;
 
+use Birka\Sixth\Library\PizzaStore;
+
 class PizzaStoreDodo extends PizzaStore
 {
     public function createPizza(string $type): ?Pizza
